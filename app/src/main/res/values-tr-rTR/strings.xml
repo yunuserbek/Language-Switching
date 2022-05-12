@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dil Yerelleştirme</string>
+    <string name="helloWorld">Merhaba Dünya</string>
+    <string name="buttonTr">Türkçe</string>
+    <string name="buttonEn">İngilizce</string>
+</resources>

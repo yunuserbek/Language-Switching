@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Language Localization</string>
+    <string name="helloWorld">Hello World</string>
+    <string name="buttonTr">Turkish</string>
+    <string name="buttonEn">English</string>
+</resources>
